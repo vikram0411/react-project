@@ -1,0 +1,27 @@
+{
+  "name": "react-project",
+  "version": "1.0.0",
+  "description": "this is react project recap",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikram0411/react-project.git"
+  },
+  "keywords": [
+    "react",
+    "vikram"
+  ],
+  "author": "vikram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikram0411/react-project/issues"
+  },
+  "homepage": "https://github.com/vikram0411/react-project#readme",
+  "dependencies": {
+    "parcel": "^2.14.4",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
